@@ -1,0 +1,20 @@
+{
+    "sample_strategy": {
+      "coin": "btc",
+      "user": "pytest",
+      "start_time": "2023-12-01",
+      "end_time": "2023-12-31",
+      "warmup_days": 7,
+      "futures": [
+        "BinanceU_BTCUSDT_perp"
+      ],
+      "funding": ["Funding_BinanceU_BTCUSDT_perp"],
+      "slippage": "0.0005",
+      "min_unit": "0.01",
+      "trade_unit": "COIN",
+      "init_account": "300",
+      "fee_type": "taker",
+      "is_windows": false,
+      "enable_mongodb": false
+    }
+  }

@@ -1,0 +1,19 @@
+{
+  "strategy_cta__01": {
+    "coin": "btc",
+    "user": "wh",
+    "start_time": "2024-01-01",
+    "end_time": "2024-05-31",
+    "warmup_days": 7,
+    "futures": [
+      "BinanceU_BTCUSDT_perp"
+    ],
+    "funding": ["Funding_BinanceU_BTCUSDT_perp"],
+    "slippage": "0.0005",
+    "min_unit": "0.001",
+    "trade_unit": "USD",
+    "enable_mongodb": false,
+    "init_account": "10000",
+    "is_windows": false
+  }
+}

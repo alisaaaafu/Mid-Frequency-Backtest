@@ -1,0 +1,2 @@
+symbol,timestamp,volume,contracts,trade_volume,cur_price,direction,available,frozen,avg_price,margin_frozen,realized profit,unrealized profit,hedge_pnl,position_pnl,funding_pnl,total_pnl,source
+BinanceU_BTCUSDT_perp,0,0.0,0.0,0.0,0.0,PositionDirection.Net,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,init

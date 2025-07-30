@@ -1,0 +1,459 @@
+{
+  "CONTRACT_TYPE": {
+    "SPOT": "spot",
+
+    "FUTURE_THIS_WEEK": "this_week",
+
+    "FUTURE_NEXT_WEEK": "next_week",
+
+    "FUTURE_THIS_MONTH_FORWARD": "this_month_forward",
+    "FUTURE_THIS_MONTH_REVERSE": "this_month_reverse",
+
+    "FUTURE_THIS_QUARTER": "quarter",
+    "FUTURE_THIS_QUARTER_FORWARD": "quarter_forward",
+    "FUTURE_THIS_QUARTER_REVERSE": "quarter_reverse",
+
+    "FUTURE_NEXT_QUARTER": "next_quarter",
+
+    "FUTURE_NEXT_TWO_QUARTER": "next_two_quarter",
+
+    "FUTURE_PERP": "perp",
+    "FUTURE_PERP_FORWARD": "perp_forward",
+    "FUTURE_PERP_REVERSE": "perp_reverse",
+    "FUTURE_LTFX": "lightening_fx",
+    
+    "FUTURE_INDEX": "index",
+    "OPTION": "option",
+    "FOREX": "forex",
+    "FUTURE_THIS_MONTH": "this_month",
+    "FUTURE_NEXT_MONTH": "next_month"
+},
+
+  "SYMBOL": {
+    "BTCUSD": "BTCUSD",
+    "ETHUSD": "ETHUSD",
+    "EOSUSD": "EOSUSD",
+    "LINKUSD": "LINKUSD",
+    "LTCUSD": "LTCUSD",
+    "XRPUSD": "XRPUSD",
+    "BCHUSD": "BCHUSD",
+    "BSVUSD": "BSVUSD",
+    "ETCUSD": "ETCUSD",
+    "TRXUSD": "TRXUSD",
+    "ADAUSD": "ADAUSD",
+    "ETHBTC": "ETHBTC",
+    "EOSBTC": "EOSBTC",
+    "LINKBTC": "LINKBTC",
+    "LTCBTC": "LTCBTC",
+    "XRPBTC": "XRPBTC",
+    "BCHBTC": "BCHBTC",
+    "BSVBTC": "BSVBTC",
+    "ETCBTC": "ETCBTC",
+    "TRXBTC": "TRXBTC",
+    "ADABTC": "ADABTC",
+    "BNBUSD": "BNBUSD",
+    "HTUSD": "HTUSD",
+    "OKBUSD": "OKBUSD",
+    "NEOUSD": "NEOUSD"
+},
+
+  "EXCHANGE": {
+    "BITMEX": "BitMEX",
+    "HUOBI": "HuoBi",
+    "HUOBISWAP": "HuobiSwap",
+    "HUOBIFUTURE": "HuobiFuture",
+    "BINANCE": "Binance",
+    "BINANCEU": "BinanceU",
+    "BINANCEC": "BinanceC",
+    "OKEX": "OKEx",
+    "OKEXSWAP": "OKExSwap",
+    "OKEXFUTURE": "OKExFuture",
+    "BITCOKE": "BitCoke",
+    "BITFINEX": "Bitfinex",
+    "BITTREX": "Bittrex",
+    "GEMINI": "Gemini",
+    "BINANCEDEX": "BinanceDex",
+    "BITSTAMP": "Bitstamp",
+    "HITBTC": "Hitbtc",
+    "BITFLYER": "Bitflyer",
+    "IMTOKEN": "Imtoken",
+    "ZB": "ZBcoin",
+    "BIBOX": "Bibox",
+    "FCOIN": "Fcoin",
+    "COINEGG": "Coinegg",
+    "COINTIGER": "Cointiger",
+    "HADAX": "Hadax",
+    "KUCOIN": "Kucoin",
+    "QUOINEX": "Quoinex",
+    "GATEIO": "Gateio",
+    "COINPARK": "Coinpark",
+    "BITHUMB": "Bithumb",
+    "BITHUMB_NORMAL": "Bithumb_normal",
+    "DEXTOP": "Dextop",
+    "TRADEIO": "Tradeio",
+    "BTCC": "Btcc",
+    "COINEX": "Coinex",
+    "IDEX": "Idex",
+    "COINSUPER": "Coinsuper",
+    "BITFOREX": "Bitforex",
+    "BGOGO": "Bgogo",
+    "KRYPTONO": "Kryptono",
+    "UPBIT": "Upbit",
+    "DERIBIT": "Deribit",
+    "DERIBIT_V2": "Deribit_V2",
+    "GAEA": "Gaea",
+    "CPDAX": "Cpdax",
+    "EXMO": "Exmo",
+    "BILAXY": "Bilaxy",
+    "BITSO": "Bitso",
+    "BITSONIC": "Bitsonic",
+    "ALAMEDA": "Alameda",
+    "HUOBIKR": "HuobiKr",
+    "BCOIN": "Bcoin",
+    "QUADRIGACX": "Quadrigacx",
+    "LUNO": "Luno",
+    "BITMAX": "Bitmax",
+    "KRAKEN": "Kraken",
+    "COINONE": "Coinone",
+    "BW": "Bw",
+    "GOPAX": "Gopax",
+    "CEX": "Cex",
+    "POLONIEX": "Poloniex",
+    "IB": "Ib",
+    "BTCMARKET": "Btcmarket",
+    "BYBITC": "BybitC",
+    "BYBITU": "BybitU",
+    "NEGOCIECOINS": "NegocieCoins",
+    "INDODAX": "Indodax",
+    "BXINTH": "Bxinth",
+    "IG": "Ig",
+    "BITMART": "Bitmart",
+    "MERCADOBITCOIN": "MercadoBitcoin",
+    "BEQUANT": "Bequant",
+    "BITASSET": "Bitasset",
+    "BITBAY": "Bitbay",
+    "DRAGONEX": "Dragonex",
+    "DSXUK": "Dsxuk",
+    "COINALL": "Coinall",
+    "COINROOM": "Coinroom",
+    "COINBASE": "Coinbase",
+    "GOEXCHANGE": "Goexchange",
+    "NEWKUCOIN": "NewKucoin",
+    "IDAX": "Idax",
+    "ALLBIT": "Allbit",
+    "PANTOSHI": "Pantoshi",
+    "PANTOSHIBETA": "PantoshiBeta",
+    "COINFLEX": "Coinflex",
+    "KRAKENFUTURE": "KrakenFuture",
+    "CGEX": "Cgex",
+    "BTCTURK": "Btcturk",
+    "KORBIT": "Korbit",
+    "YAHOO": "Yahoo",
+    "SINA": "Sina",
+    "BBX": "Bbx",
+    "COINFINIT": "Coinfinit",
+    "EXX": "Exx",
+    "FTX": "Ftx",
+    "FTXOTC": "Ftxotc",
+    "GDAC": "Gdac",
+    "COINEAL": "Coineal",
+    "MXC": "Mxc",
+    "B2C2": "B2c2",
+    "TAGOMI": "Tagomi",
+    "BLOCKCHAIN": "Blockchain",
+    "BITRUE": "Bitrue",
+    "COINBENE": "Coinbene",
+    "JEX": "Jex",
+    "HOTBIT": "Hotbit",
+    "CUMBERLAND": "Cumberland",
+    "BITHUMBGLOBAL": "BithumbGlobal",
+    "NAMEBASE": "Namebase",
+
+    "HUOBIOTC": "HuobiOtc",
+    "OKEXOTC": "OKExOtc",
+    "BINANCEOTC": "BinanceOtc",
+
+    "BAKKT": "Bakkt",
+    "CME": "CME",
+    "GRAYSCALE": "Grayscale",
+    "ONETOKEN": "Onetoken"
+},
+
+  "FEES": {
+    "OKExFuture": {
+      "spot": {
+        "taker": 0.0015,
+        "maker": 0.001
+      },
+      "future": {
+        "taker": 0.0003,
+        "maker": 0.0002
+      }
+    },
+
+    "Binance": {
+      "spot": {
+        "taker": 0.00045,
+        "maker": 0.00045
+      }
+    },
+
+    "BinanceC": {
+      "future": {
+        "maker": 0.0002,
+        "taker": 0.0005
+      }
+    },
+
+    "BinanceU": {
+      "future": {
+        "usdt": {
+          "maker": 0.0002,
+          "taker": 0.0005
+        },
+        "usdc": {
+          "maker": 0.000,
+          "taker": 0.0004
+        }
+      }
+    },
+
+    "HuoBi": {
+      "spot": {
+        "taker": 0.00025,
+        "maker": 0.00025
+      },
+      "perpetual": {
+        "taker": 0.00045,
+        "maker": -0.00027
+      }
+    },
+
+    "HuobiFuture": {
+      "future": {
+        "taker": 0.00015, 
+        "maker": -0.00015
+      }
+    },
+
+    "Bitfinex": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0
+      }
+    },
+
+    "BitMEX": {
+      "future": {
+        "taker": 0.00075, 
+        "maker": -0.00025
+      },
+      "perpetual": {
+        "taker": 0.0005,
+        "maker": -0.00025
+      }
+    },
+
+    "Deribit": {
+      "future": {
+        "taker": 0.00075, 
+        "maker": -0.0006
+      }
+    },
+
+    "Coinex": {
+      "spot": {
+        "taker": 0.0, 
+        "maker": -0.0
+      }
+    },
+
+    "Kryptono": {
+      "spot": {
+        "taker": 0.0, 
+        "maker": -0.0
+      }
+    },
+
+    "Gaea": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      },
+      "future": {
+        "taker": 0.0006,
+        "maker": -0.0003}
+    },
+
+    "Luno": {
+      "spot": {
+        "taker": 0.00,
+        "maker": 0.0
+      }
+    },
+
+    "Bitso": {
+      "spot": {
+        "taker": 0.00195,
+        "maker": 0.0015
+      }
+    },
+
+    "Upbit": {
+      "spot": {
+        "taker": 0.0005,
+        "maker": 0.0005
+      }
+    },
+
+    "Cex": {
+      "spot": {
+        "taker": 0.0025,
+        "maker": 0.0016
+      }
+    },
+
+    "Btcmarket": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      }
+    },
+
+    "Exmo": {
+      "spot": {
+        "taker": 0.002,
+        "maker": 0.002
+      }
+    },
+
+    "Quadrigacx": {
+      "spot": {
+        "taker": 0.005,
+        "maker": 0.005
+      }
+    },
+
+    "Bittrex": {
+      "spot": {
+        "taker": 0.0005,
+        "maker": 0.0005
+      }
+    },
+
+    "Bitstamp": {
+      "spot": {
+        "taker": 0.00055,
+        "maker": 0.00055
+      }
+    },
+
+    "Bithumb": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      }
+    },
+
+    "Bitmax": {
+      "spot": {
+        "taker": 0.0004,
+        "maker": 0.0004
+      }
+    },
+
+    "Gemini": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      }
+    },
+
+    "Indodax": {
+      "spot": {
+        "taker": 0.00,
+        "maker": 0.00
+      }
+    },
+
+    "Negociecoin": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      }
+    },
+
+    "Bequant": {
+      "spot": {
+        "taker": 0.001,
+        "maker": 0.001
+      }
+    },
+
+    "Bxinth": {
+      "spot": {
+        "taker": 0.0025,
+        "maker": 0.0025
+      }
+    },
+
+    "Bybit": {
+      "future": {
+        "taker": 0.00045,
+        "maker": -0.00045
+      }
+    },
+
+    "Bitflyer": {
+      "spot": {
+        "taker": 0.00,
+        "maker": 0.00
+      },
+      "future": {
+        "taker": 0.00,
+        "maker": 0.00
+      }
+    },
+
+    "MercadoBitcoin": {
+      "spot": {
+        "taker": 0.003,
+        "maker": 0.0025
+      }
+    },
+
+    "OKExSwap": {
+      "future": {
+        "taker": 0.0007,
+        "maker": 0.0002
+      }
+    }
+  },
+
+  "QUANTO": {
+      "BitMEX.ETHUSD.perp": 1e-6,
+      "BitMEX.XRPUSD.perp": 2e-4,
+      "BitMEX.BCHUSD.perp": 1e-6,
+      "BitMEX.LTCUSD.perp": 2e-6,
+      "BitMEX.LINKUSDT.perp": 1e-4,
+
+      "BitMEX.ETHUSD.quarter": 1e-6,
+      "BitMEX.ADAUSDT.quarter": 1e-2,
+      "BitMEX.BNBUSDT.quarter": 1e-4,
+      "BitMEX.DOTUSDT.quarter": 1e-4,
+      "BitMEX.EOSUSDT.quarter": 1e-4,
+      "BitMEX.XTZUSDT.quarter": 1e-4,
+      "BitMEX.YFIUSDT.quarter": 1e-10,
+      "BitMEX.LINKUSDT.quarter": 1e-4,
+
+      "BitMEX.ETHUSD.next_quarter": 1e-6,
+      "BitMEX.ADAUSDT.next_quarter": 1e-2,
+      "BitMEX.BNBUSDT.next_quarter": 1e-4,
+      "BitMEX.DOTUSDT.next_quarter": 1e-4,
+      "BitMEX.EOSUSDT.next_quarter": 1e-4,
+      "BitMEX.XTZUSDT.next_quarter": 1e-4,
+      "BitMEX.YFIUSDT.next_quarter": 1e-10,
+      "BitMEX.LINKUSDT.next_quarter": 1e-4
+  }
+
+}

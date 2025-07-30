@@ -1,0 +1,24 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+requirements.in
+out
+gen
+Research/wh/
+bt_result/wh/
+.venv/
+venv/
+__pycache__/
+*.pyc
+Preprocess/BitMEX_BTCUSD_perpetual.csv
+Preprocess/BitMEX_ETHBTC_future.csv
+Preprocess/Funding_BitMEX_BTCUSD.csv
+Preprocess/Funding_BitMEX_ETHUSD.csv
+Preprocess/okef-btc.usd.t.csv
+
+.DS_Store
+.vscode
