@@ -1,6 +1,6 @@
 # encoding=utf-8
 """
-Author: Richard
+Author: Wamnzhen Fu
 Date: 7-9-2020
 """
 import logging

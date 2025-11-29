@@ -1,6 +1,6 @@
 # encoding=utf-8
 """
-Author: Richard
+Author: Wamnzhen Fu
 Refactored to support CLI and function call.
 """
 import argparse

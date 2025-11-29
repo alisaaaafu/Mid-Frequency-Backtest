@@ -1,6 +1,6 @@
 # encoding:utf-8
 """
-Author:Richard
+Author:Wamnzhen Fu
 7-9-2020
 Modified: 2025 (removed multithreading for deterministic backtest)
 """
