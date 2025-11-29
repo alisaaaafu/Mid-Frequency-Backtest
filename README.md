@@ -180,18 +180,6 @@ python -m pytest Trade/test/
 - `funding_config.json`: Funding arbitrage settings
 - `overnight_config.json`: Overnight strategy settings
 
-## Contributing
-
-Contributions are welcome! Please ensure all tests pass before submitting pull requests.
-
-## License
-
-This project is maintained by Wanzhen Fu.
-
-## Contact
-
-For questions or support, please open an issue on the repository.
-
 ---
 
 **Note**: This framework is designed for research and backtesting purposes. Always validate strategies with paper trading before deploying to live markets.
