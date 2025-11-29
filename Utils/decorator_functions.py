@@ -1,6 +1,6 @@
 # encoding=utf-8
 """
-Author: Richard
+Author: Wamnzhen Fu
 Date: 7-8-2020
 修改: 移除线程实现，改为单线程模式
 """

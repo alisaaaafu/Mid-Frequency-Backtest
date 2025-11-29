@@ -1,7 +1,7 @@
 # encoding: utf-8
 """
 class Engine, multithreading, queue
-Author: Richard
+Author: Wamnzhen Fu
 Date: 7-6-2020
 修改: 单线程模式，移除所有线程实现
 """

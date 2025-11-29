@@ -1,6 +1,6 @@
 # encoding = utf-8
 """
-Author: Richard
+Author: Wamnzhen Fu
 Date: 7-7-2020
 """
 from enum import Enum
