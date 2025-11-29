@@ -104,9 +104,6 @@ python -m pytest Trade/test/
 
 - `config.json`: General strategy configurations
 - `cta_config.json`: CTA-specific settings
-- `funding_config.json`: Funding arbitrage settings
-- `overnight_config.json`: Overnight strategy settings
-
 ---
 
 **Note**: This framework is for research and backtesting purposes. Always validate strategies before live deployment.
